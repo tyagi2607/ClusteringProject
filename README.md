@@ -1,2 +1,6 @@
 # ClusteringProject
-A clustering project 
+A clustering project
+
+- Contries
+- Cryptocurrencies
+
